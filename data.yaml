@@ -1,0 +1,4 @@
+train: dataset/images/train  # Path to training images
+val: dataset/images/val      # Path to validation images
+nc: 3              # Number of classes
+names: ['Gavin', 'Ivy', 'Steven'] # Class names (order matters)
